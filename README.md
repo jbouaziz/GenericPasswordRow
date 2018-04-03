@@ -3,7 +3,7 @@
 <p align="left">
 <a href="https://travis-ci.org/xmartlabs/GenericPasswordRow"><img src="https://travis-ci.org/EurekaCommunity/GenericPasswordRow.svg?branch=master" alt="Build status" /></a>
 <img src="https://img.shields.io/badge/platform-iOS-blue.svg?style=flat" alt="Platform iOS" />
-<a href="https://developer.apple.com/swift"><img src="https://img.shields.io/badge/swift2-compatible-4BC51D.svg?style=flat" alt="Swift 2 compatible" /></a>
+<a href="https://developer.apple.com/swift"><img src="https://img.shields.io/badge/swift4-compatible-4BC51D.svg?style=flat" alt="Swift 4 compatible" /></a>
 <a href="https://github.com/Carthage/Carthage"><img src="https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat" alt="Carthage compatible" /></a>
 <a href="https://cocoapods.org/pods/GenericPasswordRow"><img src="https://img.shields.io/cocoapods/v/GenericPasswordRow.svg" alt="CocoaPods compatible" /></a>
 <a href="https://raw.githubusercontent.com/xmartlabs/GenericPasswordRow/master/LICENSE"><img src="http://img.shields.io/badge/license-MIT-blue.svg?style=flat" alt="License: MIT" /></a>
@@ -53,14 +53,15 @@ class ViewController: FormViewController {
 
 ## Requirements
 
-* iOS 8.0+
-* Xcode 8.3+
+* iOS 9.0+
+* Xcode 9.0+
+* Eureka ~>4.0
 
 ## Getting involved
 
 * If you **want to contribute** please feel free to **submit pull requests**.
 * If you **have a feature request** please **open an issue**.
-* If you **found a bug** or **need help** please **check older issues, [FAQ](#faq) and threads on [StackOverflow](http://stackoverflow.com/questions/tagged/CreditCardRow) (Tag 'CreditCardRow') before submitting an issue.**.
+* If you **found a bug** or **need help** please **check older issues, [FAQ](#faq) and threads on [StackOverflow](http://stackoverflow.com/questions/tagged/GenericPasswordRow) (Tag 'GenericPasswordRow') before submitting an issue.**.
 
 Before contribute check the [CONTRIBUTING](CONTRIBUTING.md) file for more info.
 
